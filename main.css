@@ -386,7 +386,10 @@ nav .anroidIc{
 }
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url();
+        /* background-image: url(); */
+    }
+    .partation{
+        display: block;
     }
     .header-text{
         margin-top: 40%;
