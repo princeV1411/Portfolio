@@ -395,11 +395,13 @@ nav .anroidIc{
         flex-basis: 100%;
     }
     .header-text{
-        margin-top: 40%;
-        font-size: 16px;
+        margin-top: 30%;
+        font-size: 18px;
+        /* background-color:slategray; */
     }
     .header-text h1 {
         font-size: 36px;
+        letter-spacing: 4px;
     }
     nav .anroidIc{
         display: block;
